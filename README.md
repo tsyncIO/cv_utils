@@ -128,6 +128,8 @@ CVUtils/
 
 ---
 
+## The tensor data structure handling will be added soon
+
 ## 📜 License  
 
 **MIT License** - You are free to use, modify, and distribute this library under the terms of the **MIT license**.
