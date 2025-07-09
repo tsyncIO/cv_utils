@@ -124,7 +124,8 @@ CVUtils/
 2. **Create a new branch** (`git checkout -b feature-newFunctionality`)  
 3. **Commit your changes** (`git commit -m "Added new function for ..."`)  
 4. **Push to your branch** (`git push origin feature-newFunctionality`)  
-5. **Create a Pull Request** 🚀  
+5. **Create a Pull Request** 🚀 
+6. Help needed for Tensor handling implementation and further modifications
 
 ---
 
